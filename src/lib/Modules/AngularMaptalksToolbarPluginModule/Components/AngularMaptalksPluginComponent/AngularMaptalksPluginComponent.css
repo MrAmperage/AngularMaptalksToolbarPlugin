@@ -1,0 +1,4 @@
+.ToolbarContainer {
+  display: flex;
+  flex-direction: column;
+}
