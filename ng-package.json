@@ -1,6 +1,6 @@
 {
-  "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
-  "dest": "../../dist/angular-maptalks-toolbar-plugin",
+  "$schema": "node_modules/ng-packagr/ng-package.schema.json",
+  "dest": "dist/angular-maptalks-toolbar-plugin",
   "lib": {
     "entryFile": "src/public-api.ts"
   }
